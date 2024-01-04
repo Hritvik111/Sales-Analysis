@@ -9,6 +9,11 @@ The analysis is performed on three main datasets:
 - **People DataFrame**: Contains information about people involved in sales.
 - **Returns DataFrame**: Contains information about product returns.
 
+## Tableau Public Dashboard
+
+Explore the interactive Sales Dashboard on Tableau Public: [Sales Dashboard](https://public.tableau.com/app/profile/hritvik.mahajan/viz/SalesDashboard_17038205355180/SalesDashboard)
+
+
 ## Data Cleaning
 
 ### Orders DataFrame
